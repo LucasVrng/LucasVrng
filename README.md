@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! I build projects across web, mobile, backend, and software fundamentals.
 
-## 🚀 About me
-- 🔭 I’m currently working on: **[add your current main project]**
-- 🌱 I’m currently learning: **[add what you’re learning now]**
-- 👯 I’m looking to collaborate on: **[add collaboration interests]**
-- 💬 Ask me about: **JavaScript, Flutter, and full-stack learning projects**
-- 📫 How to reach me: **[add your preferred contact: email / LinkedIn / X]**
-- ⚡ Fun fact: **[add a fun fact]**
-
 ## 🧩 Project highlights
 These are based on my existing repositories:
 
@@ -37,15 +29,3 @@ These are based on my existing repositories:
 ## 🛠️ Tech I use
 - **Languages:** JavaScript, Dart, C#, Java, Go, HTML/CSS
 - **Frameworks / stacks:** Flutter, React, API-focused projects
-
-## 🎯 Sections to complete
-You can personalize this profile by filling in:
-- **Short bio:** [2-3 lines introducing yourself]
-- **Featured projects:** [pick your top 3 and explain impact]
-- **Current goals:** [what you want to achieve this year]
-- **Contact links:** [email, LinkedIn, portfolio URL]
-
-## 📌 Next profile improvements
-- Add screenshots/GIFs for your best projects
-- Add a pinned “featured projects” section with one-line descriptions
-- Add project setup instructions in key repositories
