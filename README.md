@@ -27,5 +27,5 @@ These are based on my existing repositories:
 - [Carnet-De-Stage](https://github.com/LucasVrng/Carnet-De-Stage)
 
 ## 🛠️ Tech I use
-- **Languages:** JavaScript, Dart, C#, Java, Go, HTML/CSS
+- **Languages:** JavaScript, Dart, Go, HTML/CSS
 - **Frameworks / stacks:** Flutter, React, API-focused projects
